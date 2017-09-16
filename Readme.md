@@ -1,6 +1,6 @@
-#Algorithm for computing the position and rotation of a point cloud generated from OCT images by matching with a CAD model point cloud.
+# Algorithm for computing the position and rotation of a point cloud generated from OCT images by matching with a CAD model point cloud.
 
-##Needed dependencies: 
+## Needed dependencies: 
 * Eigen
 * OpenCV
 * PCL
